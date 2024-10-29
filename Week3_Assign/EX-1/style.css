@@ -1,0 +1,29 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.Container {
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 100px;
+    padding-left: 10px;
+}
+.Buttom {
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.Buttom1 {
+    background-color: rgba(5, 100, 61, 0.689);
+    color: white;
+}
+.Buttom2 {
+    background-color: orange;
+}
+.Buttom3 {
+    background-color: purple;
+    color: white;
+}

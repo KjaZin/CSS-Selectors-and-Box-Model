@@ -1,0 +1,16 @@
+/* TODO */
+button {
+    margin: 100px 200px;
+    background-color: rgb(253, 7, 183);
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(194, 19, 164);
+}
+button:hover {
+    background-color: #921863;
+    border-color: #741648;
+}
